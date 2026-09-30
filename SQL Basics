@@ -1,0 +1,7 @@
+-- SQL BASICS
+
+-- My SQL practice while learning SQL for data science.
+
+-- Creating a Database
+-- A database is used to store and organize data.
+CREATE DATABASE employee;
